@@ -5,7 +5,8 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "The King James Bible",
+  "name": "Holy Bible",
   "type": "text",
-  "has_page_numbers": true
+  "has_page_numbers": true,
+  "book_id": 684
 }
